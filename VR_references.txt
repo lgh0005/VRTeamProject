@@ -1,0 +1,48 @@
+1. 행성 지구화 : 버전이 약간 다른거 감안
+https://www.youtube.com/watch?v=x3X4d1XUuuY&list=PLWIR-xvfAGHEiPBn
+
+2. 기본적인 튜토리얼 : 가능행성
+https://www.youtube.com/watch?v=bCxN1nyPukY&list=PLbh5d79RldFq-TIM8xYMWFRynhXHABi0e
+
+3. 3D 모델링 : 골드메탈
+https://www.youtube.com/watch?v=Q3I7yPKhe2o&t=12199s
+
+4. 자연 3D 모델
+https://www.youtube.com/watch?v=Z1UdjLq_Xz0
+
+5. 방탈출
+https://www.youtube.com/watch?v=uju7zBV1cEA
+
+6 Socket Interactor
+https://www.youtube.com/watch?v=1viTbR_hTuQ
+
+7. XR Hands
+https://www.youtube.com/watch?v=f_jHGNxwN2g
+
+8. UnderWater Shader
+https://www.youtube.com/watch?v=GweaV8ZO7oA
+https://www.youtube.com/watch?v=RD9Vqz-Qd9g
+https://www.youtube.com/watch?v=xOr2fNsGFLw
+
+
+
+-=- Assets -=-
+Kyle 봇 : https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696
+
+Skybox : https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
+
+Planet : https://assetstore.unity.com/ko-KR/search#q=planet&nf-ec_price_filter=0...0
+
+
+sci-fi Module : https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
+
+
+다른 로봇 모델 : https://assetstore.unity.com/packages/3d/characters/robots/3d-character-sci-fi-robots-bundle-227142
+
+
+Lab : https://assetstore.unity.com/packages/3d/environments/chemistry-lab-items-pack-220212
+
+
+
+
